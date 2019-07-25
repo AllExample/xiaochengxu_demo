@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "map-route": "plugin://myPlugin/mapRoute"
+  },
+  "navigationBarTitleText": "酒店导航"
+}
